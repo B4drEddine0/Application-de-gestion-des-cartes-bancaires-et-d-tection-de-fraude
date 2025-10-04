@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Application de gestion des cartes bancaires.iml" filepath="$PROJECT_DIR$/Application de gestion des cartes bancaires.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Application-gestion-de-bank.iml" filepath="$PROJECT_DIR$/Application-gestion-de-bank.iml" />
     </modules>
   </component>
 </project>
